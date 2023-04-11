@@ -15,9 +15,9 @@
 :root {
   --darkplus-bg: #212121;
   --darkplus-bg2: #302f2f;
-  --darkplus-sec: #ff0000;
-  --darkplus-links: #cdaef3;
-  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/468141324906921984/852117175212179466/discord-avatar-512-YV0PV.png);
+  --darkplus-sec: #ff8f8f;
+  --darkplus-links: #ff8f8f;
+  --darkplus-home-icon: url(https://canary.discord.com/channels/@me/705059175922925598/1095354663550865468);
  --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
